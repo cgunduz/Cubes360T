@@ -1,0 +1,24 @@
+------------------
+
+Color of pieces : Red
+
+Total alternatives : 0
+
+------------------
+
+------------------
+
+Color of pieces : Purple
+
+Total alternatives : 0
+
+------------------
+
+------------------
+
+Color of pieces : Yellow
+
+Total alternatives : 0
+
+------------------
+
